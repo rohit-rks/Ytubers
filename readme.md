@@ -1,22 +1,17 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
+A marketplace for YouTube Creators with various services.
+
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+* Django : 3.1.7
+* PostgreSQL : 13.2
+* OAuth : 2.0
+* django-ckeditor :  6.0.0 (requirement)
+* djangocms-admin-style 2.0.2 (requirement)
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+	
+
